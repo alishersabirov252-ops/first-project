@@ -1,0 +1,46 @@
+*{
+    background:black;
+}
+
+
+
+
+.main{
+    
+    color:white;
+    text-align:center;
+    padding:20px;
+    cursor:pointer;
+    font-family:"Bitcount Prop Single", system-ui;
+    font-optical-sizing: auto;
+    
+    
+   
+}
+
+.main:hover{
+    color:red;
+    text-decoration:underline;
+}
+#description{
+    color:white;
+    font-size:30px;
+    text-align:center;
+}
+#list{
+    color:white;
+    font-size:30px;
+   
+    text-align:center;
+}
+#images{
+    position:relative;
+    bottom:-10px;
+    right:-650px;
+    weight:300px;
+    height:300px;
+    border-radius: 200px;
+    
+   
+    
+}
